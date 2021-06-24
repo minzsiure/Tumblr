@@ -11,10 +11,6 @@ The following **required** functionality is complete:
 - [ ] Populate a table view with data returned from the Tumblr Image Blog, Humans of New York
 
 
-The following **additional** features are implemented:
-
-- [ ] 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
