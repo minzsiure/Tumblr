@@ -19,7 +19,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/minzsiure/Tumblr/blob/main/tumblr.gif?raw=true' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+<img src='https://github.com/minzsiure/Tumblr/blob/main/tumblr.gif?raw=true' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
