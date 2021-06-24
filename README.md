@@ -1,6 +1,6 @@
 # Lab 1 - *Tumblr*
 
-**Tumblr** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Tumblr** is a post viewing app using the [The Tumblr Database API](https://www.tumblr.com/docs/en/api/v2#posts).
 
 Time spent: **1.5** hours spent in total
 
